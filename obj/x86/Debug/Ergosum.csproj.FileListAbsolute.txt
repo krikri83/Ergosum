@@ -1,0 +1,10 @@
+C:\Users\grand\OneDrive\2TSSLAM\C#\ErgosumDico\Ergosum\Ergosum\bin\Debug\Ergosum.exe
+C:\Users\grand\OneDrive\2TSSLAM\C#\ErgosumDico\Ergosum\Ergosum\bin\Debug\Ergosum.pdb
+C:\Users\grand\OneDrive\2TSSLAM\C#\ErgosumDico\Ergosum\Ergosum\obj\x86\Debug\Ergosum.exe
+C:\Users\grand\OneDrive\2TSSLAM\C#\ErgosumDico\Ergosum\Ergosum\obj\x86\Debug\Ergosum.pdb
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 7\Ergosum\Ergosum\Ergosum\bin\Debug\Ergosum.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 7\Ergosum\Ergosum\Ergosum\bin\Debug\Ergosum.pdb
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 7\Ergosum\Ergosum\Ergosum\obj\x86\Debug\Ergosum.csprojAssemblyReference.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 7\Ergosum\Ergosum\Ergosum\obj\x86\Debug\Ergosum.csproj.CoreCompileInputs.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 7\Ergosum\Ergosum\Ergosum\obj\x86\Debug\Ergosum.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 7\Ergosum\Ergosum\Ergosum\obj\x86\Debug\Ergosum.pdb

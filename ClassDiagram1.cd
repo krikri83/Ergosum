@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ergosum.Catalogue">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <Members>
+      <Method Name="Catalogue" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAACAAAAAAAQAAAAIAEIAA=</HashCode>
+      <FileName>Catalogue.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="lesJouets" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ergosum.Categorie">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="Categorie" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAACAAAAAKAAAAAAAwAAAAAAAgAA=</HashCode>
+      <FileName>Categorie.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="lesJouets" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Ergosum.Jouet">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <Members>
+      <Method Name="Jouet" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAEgAAAAAAAAAAgAECAwAAkAA=</HashCode>
+      <FileName>Jouet.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="laCategorie" />
+      <Field Name="laTranche" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ergosum.TrancheAge">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <Members>
+      <Method Name="TrancheAge" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAACAAAIAAAAAAAAQAQAAABAAA=</HashCode>
+      <FileName>TancheAge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Collections.Generic.Dictionary&lt;TKey, TValue&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
